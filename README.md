@@ -56,7 +56,7 @@ Context-aware question answering, vector search, and live document exploration.
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/jordan-matsumoto/)
+**LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/jordanmatsumoto/)
 
 ---
 
