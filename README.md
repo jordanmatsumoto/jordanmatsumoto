@@ -6,9 +6,9 @@ My background in AWS supporting high-severity, production-down enterprise enviro
 
 ---
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
-### 🛒 [Pricely](https://github.com/jordanmatsumoto/pricely) — Multi-Agent AI Price Estimator
+### [Pricely](https://github.com/jordanmatsumoto/pricely) — Multi-Agent AI Price Estimator
 
 Fine-tuned Llama model combined with GPT‑4o agent and RAG for collaborative price estimation.
 
@@ -16,25 +16,25 @@ Fine-tuned Llama model combined with GPT‑4o agent and RAG for collaborative pr
 * Deployed on [Hugging Face](https://huggingface.co/jordanmatsumoto/pricing-specialist) & Modal
 * Real-time ranking, validation, multi-agent reasoning
 
-### ⚡ [Promptly](https://github.com/jordanmatsumoto/promptly) — AI Productivity & Task Manager
+### [Promptly](https://github.com/jordanmatsumoto/promptly) — AI Productivity & Task Manager
 
 AI-enhanced tasks, projects, notes, and real-time suggestions.
 
-### 🧑‍🏫 [SageGPT](https://github.com/jordanmatsumoto/sagegpt) — Multimodal Coding Tutor
+### [SageGPT](https://github.com/jordanmatsumoto/sagegpt) — Multimodal Coding Tutor
 
 Generates explanations, diagrams, code, and optional TTS responses.
 
-### 📝 [Chronicle](https://github.com/jordanmatsumoto/chronicle) — AI Meeting Assistant
+### [Chronicle](https://github.com/jordanmatsumoto/chronicle) — AI Meeting Assistant
 
 Transcription, structured meeting minutes, and PDF/Word export.
 
-### 📚 [Wisdom](https://github.com/jordanmatsumoto/wisdom) — RAG Knowledge Assistant
+### [Wisdom](https://github.com/jordanmatsumoto/wisdom) — RAG Knowledge Assistant
 
 Context-aware question answering, vector search, and live document exploration.
 
 ---
 
-## 🧰 Skills & Technologies
+## Skills & Technologies
 
 **Cloud:** AWS (EC2, Lambda, S3, VPC, IAM, CloudWatch, SQS, SNS, AppSync, Amazon MQ, IoT, Chime SDK, CloudFormation)
 
@@ -46,7 +46,7 @@ Context-aware question answering, vector search, and live document exploration.
 
 ---
 
-## 📚 Additional Repositories
+## Additional Repositories
 
 * [ML Portfolio](https://github.com/jordanmatsumoto/ml-portfolio) — classical ML algorithms, feature engineering, EDA, and evaluation notebooks.
 
@@ -54,10 +54,10 @@ Context-aware question answering, vector search, and live document exploration.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 **LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/jordanmatsumoto/)
 
 ---
 
-⭐️ *If you like my work, feel free to star a repo or reach out!*
+*If you like my work, feel free to star a repo or reach out!*
